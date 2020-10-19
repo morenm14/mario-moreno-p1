@@ -1,6 +1,6 @@
 # mario-moreno-p1
 ## ITDEV-160 Project 1
---- 
+
 ### Project Description
 Create a website page that has the look and feel of spotify 
 recommending 5 playlist in the Student Life category.
