@@ -1,0 +1,78 @@
+body{
+    font-family: 'Roboto', Arial, Helvetica;
+    font-size: 1rem;
+    line-height: 21px;
+    background-color: rgb(20, 20, 20);
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.accent{
+    color: #3fc467;
+}
+
+h1, h2, h3{
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+header h1{
+    font-size: 2.3rem;
+    line-height: 1.2em;
+    padding:16px;
+}
+
+#credits{
+    font-size: 14px;
+    padding-left:16px;
+    margin-bottom: 1.3em;
+}
+main{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+header img{
+    width: 100%;
+}
+
+.package-container{
+    width: 92%;
+    margin: 0 auto;
+    height: auto;
+    padding: 10px 0;
+    overflow: hidden;
+}
+
+.package-container img{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-right: 1em;
+}
+
+.package-container h2{
+    font-size: 1.3em;
+}
+
+.play-list{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.play-list:hover{
+    color: #3fc467;
+}
+
+.package-container footer{
+    width: 100%;
+    font-size: 12px;
+
+}
+
+#page-footer{
+    font-size: 12px;
+    padding-left: 16px;
+}
+
